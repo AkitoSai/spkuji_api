@@ -14,7 +14,7 @@
 ”BIG1000　くじ” 
 ”mini BIG くじ”
 
-抓取後以JSON格式回傳給Request的一方、實現spAPI 
+抓取後以JSON格式回傳給Request的一方、實現api接口
 
 目標頁面：
 https://store.toto-dream.com/dcs/subos/screen/pi05/spin014/PGSPIN01401LnkHoldCntLotResultLstBIG.form 
