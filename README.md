@@ -3,9 +3,8 @@
 //
 //  Created by 蔡 易達 on 2022/5/30.
 //  Copyright © 2022年 蔡 易達. All rights reserved.
-
-
 //====================spkuji_api.py====================//
+
 以Python+Flask Server的方式架設於GCP(Google Cloud Platform)實現抓取日本スポーツくじ的最新得獎頁面、抓取以下5種類的得獎號碼：
 
 ”BIG　くじ” 
