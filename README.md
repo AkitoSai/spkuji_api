@@ -19,7 +19,7 @@
 https://store.toto-dream.com/dcs/subos/screen/pi05/spin014/PGSPIN01401LnkHoldCntLotResultLstBIG.form 
 
 API響應端口 ：
-http://35.200.24.201:5000/loto_api/get
+http://35.200.24.201:5000/spkuji_api/get
 
 ====================spkuji_api.py====================//
 
