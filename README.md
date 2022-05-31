@@ -1,9 +1,10 @@
-//  Read Me
-//  AkitosHomeWork
-//
-//  Created by 蔡 易達 on 2022/5/30.
-//  Copyright © 2022年 蔡 易達. All rights reserved.
-//====================spkuji_api.py====================//
+=====================================================
+spkuji_api  
+Created by 蔡 易達 on 2022/5/30.
+Copyright © 2022年 蔡 易達. All rights reserved.
+=====================================================
+
+====================spkuji_api.py====================
 
 以Python+Flask Server的方式架設於GCP(Google Cloud Platform)實現抓取日本スポーツくじ的最新得獎頁面、抓取以下5種類的得獎號碼：
 
@@ -21,6 +22,6 @@ https://store.toto-dream.com/dcs/subos/screen/pi05/spin014/PGSPIN01401LnkHoldCnt
 API響應端口 ：
 http://35.200.24.201:5000/spkuji_api/get
 
-====================spkuji_api.py====================//
+====================spkuji_api.py====================
 
 
